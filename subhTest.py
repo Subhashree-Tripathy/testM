@@ -1,4 +1,4 @@
 class Subhashree:
-	def tst(self,b):
+	def subhtst(self,b):
 		a='hello there '+b
 		return a

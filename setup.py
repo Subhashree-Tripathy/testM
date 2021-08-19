@@ -4,7 +4,7 @@ with open("README.md","r") as fh:
   long_description =fh.read()
 
 setup(
-  name = 'subhashree',
+  name = 'subhashreetripz',
   packages = find_packages(),
   version = '0.0.1',
   description = 'Only for testing purpose',
